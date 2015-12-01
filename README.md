@@ -1,6 +1,6 @@
 Hats
 ====
 
-A website about knitted hats
+A website about crocheted hats
 
-Pictures of knitted hats
+Pictures of crocheted hats
